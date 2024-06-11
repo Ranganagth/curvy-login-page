@@ -57,4 +57,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ### Acknowledgments
 
 - Icon by [icons8.com](https://icons8.com/icons/set/r)
+- Inspried by work from [arda](https://codepen.io/Ardacodeexeeeesnn)
 - Anime.js - JavaScript animation library by [Julian Garnier](https://animejs.com/)
